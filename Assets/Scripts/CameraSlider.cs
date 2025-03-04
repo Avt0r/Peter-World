@@ -1,5 +1,4 @@
 using UnityEngine;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 //Слайд камеры
 public class CameraSlider : MonoBehaviour
